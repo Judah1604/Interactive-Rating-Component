@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [[Interactive Rating Componenthttps://www.frontendmentor.io/solutions/interactive-rating-component-hbXaAdbLS2)
+- Solution URL: [Interactive Rating Component](https://www.frontendmentor.io/solutions/interactive-rating-component-hbXaAdbLS2)
 - Live Site URL: [Interactive Rating Component](https://judah1604.github.io/Interactive-Rating-Component/index.html)
 
 ## My process
