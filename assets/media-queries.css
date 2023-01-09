@@ -1,0 +1,6 @@
+@media screen and (max-width: 375px) {
+	.rating-card,
+	.thank-you-card {
+		width: 260px;
+	}
+}
