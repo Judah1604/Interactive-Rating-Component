@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [[Interactive Rating Componenthttps://www.frontendmentor.io/solutions/interactive-rating-component-hbXaAdbLS2)
+- Live Site URL: [Interactive Rating Component](https://judah1604.github.io/Interactive-Rating-Component/index.html)
 
 ## My process
 
